@@ -339,7 +339,7 @@ footer .direitos h5 {
 }
 
 /* === MEDIA QUERIES (TELAS PEQUENAS) === */
-@media (max-width: 768px) {
+@media (max-width: 720px) {
   .menu {
     flex-direction: column;
     padding: 10px;
