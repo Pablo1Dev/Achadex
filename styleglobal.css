@@ -387,11 +387,11 @@ footer .direitos h5 {
     font-size: 40px;
   }
   .center2 .container{
-    margin-top: 0px;
+    margin-top: 200px;
   }
   .div2 .container{
     margin-left: -10px;
-    margin-top: 350px;
+    margin-top: 400px;
     flex-direction: column;
     width: 70%;
     align-items: center;
