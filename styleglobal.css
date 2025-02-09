@@ -63,7 +63,7 @@ nav {
 /* === SEÇÃO PRINCIPAL === */
 .img {
   background: url('background.jpg') no-repeat center/cover;
-  height: 100vh;
+  height: 120vh;
   width: 100%;
   position: relative;
 }
@@ -147,7 +147,7 @@ nav {
   font-family: 'Poppins', sans-serif;
   color: white;
   background: #f57d05;
-  border: 2px solid black;
+  border: 2px solid white;
   box-shadow: 0px 0px 10px black;
   border-radius: 15px;
   margin: 10px 10px;
@@ -201,6 +201,35 @@ footer .line-footer{
     border-top: 2px solid #f57d05;
     
 }
+
+.btn-voltar{
+  height: 50px;
+  width: 200px;
+  font-family: 'Poppins', sans-serif;
+  color: white;
+  background: #f57d05;
+  border: 2px solid white;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 15px;
+  margin-top: 40px;
+  margin-left: 90px;
+  font-size: 18px;
+  font-weight: 400;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.btn-voltar:hover{
+  background: #f57d05;
+  transform: scale(1.1);
+  box-shadow: 5px 5px 15px #f57d05;
+}
+.btn-voltar a{
+  text-decoration: none;
+  color: white;
+  font-family: 'Poppins', Sans-Serif;
+  font-size: 20px;
+}
+
 .btn-social button{
   width: 50px;
   height: 50px;
@@ -242,7 +271,7 @@ footer .direitos h5 {
   top: 75%;
   left: 52%;
   transform: translate(-50%, -50%);
-  width: 95%;
+  width: 90%;
   text-align: center;
 }
 .card {
@@ -256,7 +285,7 @@ footer .direitos h5 {
   padding: 20px 2%;
 }
 .card h1{
-  font-size: 10px;
+  font-size: 13px;
   color: white;
   text-shadow: 4px 4px 12px black;
   font-family: 'Poppins', sans-serif;
@@ -309,6 +338,10 @@ footer .direitos h5 {
     flex-direction: column;
     padding: 10px;
   }
+  
+  .btn-voltar{
+    
+  }
 
   .menu ul {
     display: none;
@@ -347,7 +380,7 @@ footer .direitos h5 {
     font-size: 40px;
   }
   .center2 .container{
-    margin-top: 50px;
+    margin-top: 0px;
   }
   .div2 .container{
     margin-left: -5px;
@@ -385,7 +418,7 @@ footer .direitos h5 {
     font-size: 15px;
   }
   .img {
-    height: 90vh;
+    height: 190vh;
     width: 100%;
   }
 
@@ -404,5 +437,5 @@ footer .direitos h5 {
   }
   
   footer .direitos h5 {
-    font-size: 15px;
+    font-size: 12px;
   }
