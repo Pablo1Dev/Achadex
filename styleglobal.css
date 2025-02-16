@@ -397,7 +397,7 @@
   
     /* == OUTROS == */
     .btn-voltar a{
-      padding: 10px 60px;
+      padding: 10px 40px;
     }
     .left button a{
       padding: 10px 60px;
@@ -450,7 +450,7 @@
     }
     
     .img {
-     height: 200vh;
+     height: 230vh;
     }
   
     .img::before {
