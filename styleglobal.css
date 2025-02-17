@@ -357,7 +357,7 @@
 }
 
 /* === MEDIA QUERIES (TELAS PEQUENAS) === */
-@media (max-width: 720px) {
+@media (max-width: 750px) {
     .menu {
       flex-direction: column;
       padding: 10px;
