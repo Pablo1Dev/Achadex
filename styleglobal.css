@@ -500,9 +500,10 @@
     }
     .center2 .title2{
       margin-top: 80px;
+      background: red
     }
     .div2 .container{
-      margin-top: 600px;
+      margin-top: 800px;
     }
     .img {
       height: 390vh;
