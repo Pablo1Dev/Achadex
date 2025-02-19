@@ -366,7 +366,7 @@
     .btn-voltar{
       display: block;
       background: white;
-      margin-bottom: 80px;
+      margin-bottom: 40px;
     }
     
     button a{
@@ -433,7 +433,7 @@
     }
     .div2 .container{
         margin-left: -10px;
-        margin-top: 750px;
+        margin-top: 700px;
       flex-direction: column;
       width: 70%;
       align-items: center;
