@@ -63,7 +63,7 @@
   /* === SEÇÃO PRINCIPAL === */
   .img {
     background: url('background.jpg') no-repeat center/cover;
-    height: 120vh;
+    height: 150vh;
     width: 100%;
     position: relative;
   }
